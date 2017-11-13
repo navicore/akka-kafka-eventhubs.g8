@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/navicore/akka-kafka-eventhubs.g8.svg?branch=master)](https://travis-ci.org/navicore/akka-kafka-eventhubs.g8)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce59808726964769b0a135aa8ad1bbb5)](https://www.codacy.com/app/navicore/akka-kafka-eventhubs.g8?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=navicore/akka-kafka-eventhubs.g8&amp;utm_campaign=Badge_Grade)
+
 A [g8] Template for an Akka Streams to Write to Azure Eventhubs from Kafka
 ---
 
