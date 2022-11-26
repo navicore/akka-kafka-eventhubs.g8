@@ -25,7 +25,7 @@ libraryDependencies ++= Seq(
     "com.typesafe.akka" %% "akka-cluster" % akkaVersion,
 
     "org.json4s" %% "json4s-native" % "3.5.3",
-    "com.github.nscala-time" %% "nscala-time" % "2.16.0",
+    "com.github.nscala-time" %% "nscala-time" % "2.32.0",
 
     "com.microsoft.azure" %% "azure-eventhubs-reactive" % "0.5.0",
 
